@@ -32,9 +32,7 @@
   position: relative;
   width: 100%;
   min-height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  display: block;
   background-color: var(--color-bg-main);
   overflow-x: hidden;
 }
@@ -78,8 +76,8 @@
   position: relative;
   z-index: 10;
   width: 100%;
-  max-width: 600px;
-  padding: 30px;
+  max-width: 100%;
+  padding: 0;
   opacity: 0;
   transform: scale(0.95);
   transition: all 0.5s cubic-bezier(0.445, 0.05, 0, 1);
