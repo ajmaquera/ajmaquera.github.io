@@ -37,7 +37,7 @@ Egresado de Ingeniería Estadística e Informática con experiencia en análisis
   * Modelado jerárquico bayesiano (modelos CAR) de vulnerabilidad climática en el sur del Perú; detección de autocorrelación espacial con índice de Moran — **publicado en Springer, ISGTA 2025**
 * **Sistema de Chatbot RAG con Panel Administrativo** | *FastAPI, PostgreSQL, LangChain, Vue.js, Django* — *2025*
   * Chatbot institucional con arquitectura RAG (FAISS + LangChain) y panel en Vue.js para gestión de usuarios, categorías, base de conocimiento y monitoreo; backend en Django.
-* **Dashboard: Análisis Agrícola Agropuno** | *R, Shiny, Plotly, dplyr, ggplot2* | [Demo](https://dairxp.shinyapps.io/Agropuno/) — *2024*
+* **Dashboard: Análisis Agrícola Agropuno** | *R, Shiny, Plotly, dplyr, ggplot2* | [Demo](https://ajmaquera.shinyapps.io/Agropuno/) — *2024*
   * Aplicación interactiva para el análisis de siembra y producción agrícola en las 13 provincias de Puno (1997--2021); evaluación estadística automática con pruebas de normalidad (Shapiro-Wilk), hipótesis (T-Student, Mann-Whitney), correlaciones (Pearson, Spearman) y análisis de tendencia histórica mediante regresión lineal
 * **Repositorio Institucional IIDEAA** | *React, SCSS, Three.js, PWA, Django* | [Demo](https://iideaa.unap.edu.pe/inicio) — *2025*
   * Repositorio de publicaciones científicas del Instituto de Investigación y Desarrollo Andino Amazónico; frontend responsive con React y backend con Django REST framework.
