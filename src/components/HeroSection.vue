@@ -2,7 +2,10 @@
   <div class="hero-section">
     <div class="hero-content">
       <div class="profile-photo">
-        <img src="/good.png" alt="Aldair Maquera" />
+        <picture>
+          <source srcset="/goodwebp.webp" type="image/webp" />
+          <img src="/good.png" alt="Aldair Maquera" />
+        </picture>
       </div>
       
       <h1 class="hero-title">Aldair Maquera</h1>
